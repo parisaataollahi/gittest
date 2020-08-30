@@ -1,3 +1,3 @@
-this is a test
+this is a confilict test
 
 # gittest
